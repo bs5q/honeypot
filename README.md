@@ -6,13 +6,13 @@ Honeypot detects potential threats, alerts, and reports to a Telegram bot, im ad
 
 - Simulates handling connections and logs potential attack patterns.
 - Sends alerts to Telegram on potential threats.
-- Reports malicious IPs to AbuseIPDB.
+- Reports malicious IPs to AbuseIPDB. `SOON`
 
 ## Prerequisites
 
 - Go installed on your machine.
 - A valid Telegram bot token for receiving alerts.
-- (Optional) An AbuseIPDB API key for reporting malicious IPs.
+- (Optional) An AbuseIPDB API key for reporting malicious IPs. `SOON`
 
 ## Configuration
 
